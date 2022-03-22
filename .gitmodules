@@ -1,5 +1,5 @@
-[submodule "andromeda-light"]
-	path = andromeda-light
+[submodule "themes/andromeda-light"]
+	path = themes/andromeda-light
 	url = https://github.com/gethugothemes/andromeda-light.git
 [submodule "themes/hugo-icon"]
 	path = themes/hugo-icon
