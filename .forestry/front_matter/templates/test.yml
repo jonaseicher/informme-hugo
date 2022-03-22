@@ -8,12 +8,5 @@ fields:
     required: false
   label: title
   description: main title
-- name: block1
-  type: blocks
-  label: block1
-  template_types: []
-  config:
-    min: 
-    max: 
 pages:
 - content/hello-informme.md
